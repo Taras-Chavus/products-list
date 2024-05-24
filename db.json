@@ -1,0 +1,15 @@
+{
+  "products": [
+    {
+      "id": "27ac",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt2F-WUas8bruRyjuVPiHzvz27-KrKwPwNbpOTouO5H-nH8JTnJIoCZcMEmpXQj8ojDLk&usqp=CAU",
+      "name": "revice",
+      "count": "3",
+      "size": {
+        "width": "50",
+        "height": "50"
+      },
+      "weight": "30"
+    }
+  ]
+}
